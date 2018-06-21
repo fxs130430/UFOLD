@@ -1,0 +1,3 @@
+#modeh(uncle(var(person),var(person)))
+#modeb(1,parent(var(person),var(person)))
+#modeb(2,father(var(person),var(person)))
